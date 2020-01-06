@@ -1,6 +1,7 @@
 # Customer_data
 Use the transactions data to analyze profits, analyze customers, provide recommendations.
 
+Python Code / Jupyter Notebook: Present in the Repository
 
 Tableau:
 https://public.tableau.com/profile/suraj.malpani#!/vizhome/Profitsovertime_15756023975480/Dashboard1
